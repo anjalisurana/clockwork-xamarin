@@ -15,7 +15,7 @@ The project allows an Employer to create Jobs and Add Employees/Contractors, who
   * Allot Jobs to Contractors
   * Monitor work done by Contractors
 
-*2 [Employee App]*
+*2 [WikiSyntax Employee App]*
   * Download Employee-app using link received in Email
   * Log in with credentials received in email
   * See Jobs allotted by Employer
