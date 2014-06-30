@@ -1,0 +1,25 @@
+#labels Featured
+#Apps for tracking and monitoring the time spent on Jobs.
+
+= Introduction =
+
+The project allows an Employer to create Jobs and Add Employees/Contractors, who in turn can use the Employee App to clock hours and location on job.
+
+
+= Details =
+
+*[1] Employer App*
+  * Register on the Mobile App.
+  * Add Employees/Contractors - They will be sent an email
+  * Add Jobs/Tasks
+  * Allot Jobs to Contractors
+  * Monitor work done by Contractors
+
+*[2] Employee App*
+  * Download Employee-app using link received in Email
+  * Log in with credentials received in email
+  * See Jobs allotted by Employer
+  * Start clocking hours on a Job.
+  * The current location of the user is also monitored
+  * Stop clocking hours when done
+  * See Total hours worked per job  
