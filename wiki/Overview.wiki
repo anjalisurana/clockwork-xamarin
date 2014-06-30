@@ -8,7 +8,7 @@ The project allows an Employer to create Jobs and Add Employees/Contractors, who
 
 = Details =
 
-*1 [Employer App]*
+*1 [WikiSyntax Employer App]*
   * Register on the Mobile App.
   * Add Employees/Contractors - They will be sent an email
   * Add Jobs/Tasks
